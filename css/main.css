@@ -1,0 +1,44 @@
+html, body{
+	height: 100%;
+}
+
+.link, .link2{
+	font-size: 18px;
+	padding-left: 10px;
+}
+.link:hover{
+	color: #333;
+	text-decoration: underline;
+	cursor: pointer;
+}
+#pic{
+	margin-left: 0px;
+}
+h4{
+	font-weight: 400;
+}
+html{
+	background-color: #FEFEFE;
+}
+
+#header{
+	text-align: center;
+	width: 100%;
+}
+
+#t1{
+	height: 100%;
+	display: table;
+}
+
+#t2{
+	display: table-cell;
+	vertical-align: middle;
+}
+#h4{
+	margin-bottom: 30px;
+}
+a{
+	color: inherit;
+	text-decoration: inherit;
+}
